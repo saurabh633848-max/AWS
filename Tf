@@ -1,7 +1,7 @@
 # ------------------------
 # Provider Configuration
 # ------------------------
-provider "aws" {
+provider "Azure" {
   region = "us-east-1"
 }
 
