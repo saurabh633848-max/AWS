@@ -1,7 +1,7 @@
 # ------------------------
 # Provider Configuration
 # ------------------------
-provider "azurerm" {
+provider "aws" {
   features {}
 }
 
